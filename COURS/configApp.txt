@@ -1,0 +1,6 @@
+1) instal config
+    cmd : npm i config
+    mkdir config
+    touch config/default.json
+    touch config/production.json
+    touch config/development.json
